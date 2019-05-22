@@ -254,7 +254,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 206714775}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f394b22d60967094cadce4ea509c4b32, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -314,8 +314,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 206714775}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -14}
-  m_LocalScale: {x: 80.22286, y: 18.213795, z: 82.354645}
+  m_LocalPosition: {x: -21, y: 0.9, z: -13.3}
+  m_LocalScale: {x: 22.68697, y: 7.831932, z: 12.692469}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
@@ -579,7 +579,7 @@ BoxCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 392129786}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f394b22d60967094cadce4ea509c4b32, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -602,7 +602,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 3dc23ffe05eadd048bbad942ca302636, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -638,8 +638,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 392129786}
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 1, y: 11, z: 403.4}
-  m_LocalScale: {x: 4.0137, y: 26.758787, z: 805.10925}
+  m_LocalPosition: {x: -20.717, y: 5.6299996, z: 51.029}
+  m_LocalScale: {x: 0.61858994, y: 11.506279, z: 227.68434}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 16
@@ -687,7 +687,7 @@ BoxCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 446158778}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f394b22d60967094cadce4ea509c4b32, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -710,7 +710,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 3dc23ffe05eadd048bbad942ca302636, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -746,8 +746,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 446158778}
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 1, y: 11, z: -430.7}
-  m_LocalScale: {x: 4.0137, y: 26.758787, z: 805.10925}
+  m_LocalPosition: {x: -20.717, y: 5.6299996, z: -77.518}
+  m_LocalScale: {x: 0.61858994, y: 11.506279, z: 227.68434}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 17
@@ -937,7 +937,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0.7078017, y: 0.0042320504, z: -0.0006099702, w: 0.70639825}
-  m_LocalPosition: {x: -17.4, y: 107.4, z: -4.2}
+  m_LocalPosition: {x: -17.4, y: 107.4, z: -11.1}
   m_LocalScale: {x: -0, y: -0, z: 0}
   m_Children: []
   m_Father: {fileID: 0}
@@ -986,7 +986,7 @@ BoxCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 572209038}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f394b22d60967094cadce4ea509c4b32, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -1009,7 +1009,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 3dc23ffe05eadd048bbad942ca302636, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1045,8 +1045,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 572209038}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 403, y: 11, z: -10.640625}
-  m_LocalScale: {x: 4.0137, y: 26.758787, z: 834.0076}
+  m_LocalPosition: {x: 92.969, y: 5.6299996, z: -12.781}
+  m_LocalScale: {x: 1.1350715, y: 11.506279, z: 128.53696}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 15
@@ -1710,7 +1710,7 @@ SphereCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1475986023}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f394b22d60967094cadce4ea509c4b32, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -1769,7 +1769,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1475986023}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 57.1, y: 4.96, z: 0}
+  m_LocalPosition: {x: 57.1, y: 4, z: 0}
   m_LocalScale: {x: 7.3109574, y: 7.3109574, z: 7.3109574}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1803,7 +1803,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0fa4a268e38d6b74395c4cfd9298ab00, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 500
+  speed: 50
 --- !u!1 &1720324252
 GameObject:
   m_ObjectHideFlags: 0
@@ -1939,7 +1939,7 @@ BoxCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1901970944}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f394b22d60967094cadce4ea509c4b32, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -1962,7 +1962,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 3dc23ffe05eadd048bbad942ca302636, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1998,8 +1998,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1901970944}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -403, y: 11, z: -10.640625}
-  m_LocalScale: {x: 4.0137, y: 26.758787, z: 834.0076}
+  m_LocalPosition: {x: -134.97, y: 5.6299996, z: -12.781}
+  m_LocalScale: {x: 1.1350715, y: 11.506279, z: 128.53696}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 14
