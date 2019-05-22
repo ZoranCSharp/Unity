@@ -63,6 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scenes\PlayerMovement.cs" />
+    <Compile Include="Assets\Scenes\TriggerScript.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/zoran.kovacevic/Desktop/Unity/Unity Basics/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
