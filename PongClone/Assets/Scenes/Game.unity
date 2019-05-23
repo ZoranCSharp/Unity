@@ -2173,6 +2173,7 @@ GameObject:
   - component: {fileID: 1703652165}
   - component: {fileID: 1703652162}
   - component: {fileID: 1703652166}
+  - component: {fileID: 1703652167}
   m_Layer: 0
   m_Name: Ball
   m_TagString: Untagged
@@ -2301,6 +2302,19 @@ MonoBehaviour:
   movementSpeed: 400
   extraSpeedPerHit: 50
   MaxExtraSpeed: 1000
+--- !u!114 &1703652167
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1703652160}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cef6836ba78113c46b41cc43fc8fffd5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ballMovement: {fileID: 1703652166}
 --- !u!1 &1837743855
 GameObject:
   m_ObjectHideFlags: 0

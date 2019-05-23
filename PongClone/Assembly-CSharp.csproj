@@ -63,6 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scenes\Script\BallMovement.cs" />
+    <Compile Include="Assets\Scenes\Script\CollissionControler.cs" />
     <Compile Include="Assets\Scenes\Script\PlayButton.cs" />
     <Compile Include="Assets\Scenes\Script\RacketLeft.cs" />
     <Compile Include="Assets\Scenes\Script\RacketRight.cs" />
