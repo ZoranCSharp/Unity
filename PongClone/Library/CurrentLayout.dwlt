@@ -113,10 +113,10 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 731
-  m_MinSize: {x: 917, y: 444}
-  m_MaxSize: {x: 22012, y: 10022}
+  m_MinSize: {x: 915, y: 444}
+  m_MaxSize: {x: 22010, y: 10022}
   vertical: 0
-  controlID: 4051
+  controlID: 18480
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -141,7 +141,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 444}
   m_MaxSize: {x: 4002, y: 8044}
   vertical: 1
-  controlID: 4052
+  controlID: 18481
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -389,9 +389,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.055929184, y: 69.55219, z: -42.625}
+    m_Target: {x: -96.083206, y: 89.14434, z: -158.14407}
     speed: 2
-    m_Value: {x: -0.055929184, y: 69.55219, z: -42.625}
+    m_Value: {x: -96.083206, y: 89.14434, z: -158.14407}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -422,11 +422,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0, y: 0, z: 0, w: 1}
     speed: 2
-    m_Value: {x: 0.000000007450581, y: 4.656613e-10, z: -5.820766e-11, w: 1}
+    m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 788.64355
+    m_Target: 900.4891
     speed: 2
-    m_Value: 754.6828
+    m_Value: 900.4891
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -444,7 +444,7 @@ MonoBehaviour:
     m_DynamicClip: 1
     m_OcclusionCulling: 0
   m_ShowGlobalGrid: 1
-  m_LastSceneViewRotation: {x: 0.09675701, y: 0.005668782, z: -0.00055093784, w: 0.9952988}
+  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
@@ -480,23 +480,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: d02c0000
-      m_LastClickedID: 11472
-      m_ExpandedIDs: 1ef4ffffb2f7ffff22f8ffff8cfbffff8efbffff622c0000662c00007e2c0000c82c0000cc2c0000
+      m_SelectedIDs: 22450000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 8efbffff6c2c0000702c0000882c0000e62c0000f22c0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: RIGHT
-        m_OriginalName: RIGHT
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 11322
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 9}
       m_SearchString: 
@@ -544,20 +544,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes/Material
+    - Assets/Scenes/Script
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes/Material
+  - Assets/Scenes/Script
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\zoran.kovacevic\Desktop\Unity\PongClone
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 78290000
-    m_LastClickedID: 10616
-    m_ExpandedIDs: 0000000058290000e42a000000ca9a3b
+    m_SelectedIDs: ea2a0000
+    m_LastClickedID: 10986
+    m_ExpandedIDs: 0000000058290000e62a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -573,7 +573,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 10}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}

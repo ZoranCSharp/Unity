@@ -67,6 +67,7 @@
     <Compile Include="Assets\Scenes\Script\PlayButton.cs" />
     <Compile Include="Assets\Scenes\Script\RacketLeft.cs" />
     <Compile Include="Assets\Scenes\Script\RacketRight.cs" />
+    <Compile Include="Assets\Scenes\Script\ScoreControler.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/zoran.kovacevic/Desktop/Unity/PongClone/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
